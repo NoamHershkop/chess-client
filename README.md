@@ -1,6 +1,6 @@
 # ChessClient
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+Chess game client written with angular.
 
 ## Development server
 
